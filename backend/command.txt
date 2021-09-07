@@ -1,0 +1,5 @@
+npm install express --save
+npm install -g express-generator
+express --view=ejs backend
+cd backend
+npm install   (to install dependencies)
